@@ -15,6 +15,7 @@ There is also a Go benchmark for comparison.
 ## Results
 
 | bench | speed |
+| - | - |
 | reqwest_current_thread | 3276 MiB/s |
 | reqwest_multi_thread | 680 MiB/s |
 | go | 2804 MiB/s |
