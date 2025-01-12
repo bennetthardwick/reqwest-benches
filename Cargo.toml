@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+	"reqwest_current_thread",
+	"reqwest_multi_thread",
+	"bench_dummy_server"
+]
+	
